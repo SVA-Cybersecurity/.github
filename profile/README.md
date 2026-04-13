@@ -16,7 +16,7 @@ This GitHub profile collects tools, scripts, and resources that have come out of
 🇬🇧 The following projects are examples of tools and resources we have developed and shared with the community.
 
 ## Magic
-
+https://github.com/SVA-Cybersecurity/magic
 
 
 # 💜 Weitere Projekte | Other Projects
@@ -24,6 +24,9 @@ This GitHub profile collects tools, scripts, and resources that have come out of
 🇩🇪 Unsere Mitarbeiterinnen und Mitarbeiter haben darüber hinaus zahlreiche weitere Tools und Skripte beigesteuert, die hier gesammelt sind.
 
 🇬🇧 Our employees have also contributed numerous additional tools and scripts, collected here.
+
+## SVA Labs
+https://github.com/svalabs
 
 ## DFIRTrack
 https://github.com/dfirtrack/dfirtrack

@@ -1,3 +1,5 @@
+![Cyber Resilience Experts](https://github.com/SVA-Cybersecurity/.github/blob/main/images/cyber-resilience-experts.png) 
+
 # Über uns | About Us
 🇩🇪 Die SVA System Vertrieb Alexander GmbH ist ein deutscher IT-Dienstleister. Unter anderem unterstützen wir Kunden in allen Bereichen der Cyber Security – von GRC über Penetration Testing und Red Teaming bis hin zu Incident Response und Security Awareness.
 

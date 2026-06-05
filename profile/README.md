@@ -11,11 +11,9 @@ This GitHub profile collects tools, scripts, and resources that have come out of
 
 Our employees have also contributed numerous additional tools and scripts, collected here.
 
-- [SVA Labs](https://github.com/svalabs)
-
-- [DFIRTrack](https://github.com/dfirtrack/dfirtrack)
-
-- [SVA Red Team](https://github.com/svaredteam)
+- [SVA Labs](https://github.com/svalabs) - A wide variety of tools, scripts, and other content released as open source by SVA System Vertrieb Alexander GmbH
+- [SVA Red Team](https://github.com/svaredteam) - Offensive Security tools and talks
+- [DFIRTrack](https://github.com/dfirtrack/dfirtrack) - A Digital Forensics and Incident Response Tracking application
 
 
 # Contributing
